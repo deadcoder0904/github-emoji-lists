@@ -9,7 +9,7 @@ function handleData(data) {
   	}
 
 		arr.push("<div class='fl w-100 w-third-ns pa2'>");
-		arr.push("<div class='outline pv4'> <img src='" + data[key] + "' alt=':" + key + ":'/></div>");
+		arr.push("<div class='outline pv4'> <img class='pointer' src='" + data[key] + "' alt=':" + key + ":' /></div>");
 	  arr.push("</div>");
   
 		if((c + 1) % 3 == 0) {
