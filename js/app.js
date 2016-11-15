@@ -4,7 +4,7 @@ function handleData(data) {
 	var c = 0;
   for(var key in data) {
 		if(c % 3 == 0) {
-			arr.push("<div class='mw9 center ph3-ns bg-light-green'>");
+			arr.push("<div class='mw9 center ph3-ns'>");
   		arr.push("<div class='cf ph2-ns'>");
   	}
 
