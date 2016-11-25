@@ -2,4 +2,4 @@
 
 ## Screenshot
 
-![Github Emojis](http://imgur.com/CFr7bf5.png)
+![Github Emojis](http://imgur.com/HofwIkj.png)
